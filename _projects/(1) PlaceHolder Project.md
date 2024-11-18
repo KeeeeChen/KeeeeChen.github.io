@@ -1,8 +1,8 @@
 ---
-name: PlaceHolder Project
+name: Homework 6
 tools: [nothing, important]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+image: https://github.com/KeeeeChen/KeeeeChen.github.io/blob/main/hw6/visualization.png
+description: The Webpage for hw 6.
 ---
 
 # Building Usage Analysis
