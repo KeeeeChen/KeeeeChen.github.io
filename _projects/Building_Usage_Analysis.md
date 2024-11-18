@@ -1,9 +1,3 @@
-
----
-title: "Building Usage Analysis"
-layout: post
----
-
 # Building Usage Analysis
 
 This post presents an analysis of building usage patterns and their statuses using two visualizations. The data is sourced from a public repository, and the analysis was conducted in a Python notebook.
