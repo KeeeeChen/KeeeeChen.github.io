@@ -20,7 +20,6 @@ This visualization is a pie chart depicting the distribution of building usage t
 - The raw dataset contained missing values in the "Usage Description" column, which were replaced with "Unknown" to avoid data loss.
 - A frequency table was generated to compute the counts for each usage type, serving as input for the visualization.
 
-<div id="viz1"></div>
 
 ## Visualization 2: Relationship between Building Usage and Status (Interactive)
 This interactive bar chart explores the relationship between building usage types and their current statuses (e.g., "In Use," "Abandon"). Users can select a specific building usage type from a dropdown menu to dynamically filter and display the status distribution for that category, enabling a focused analysis.
@@ -38,7 +37,6 @@ This interactive bar chart explores the relationship between building usage type
 **Interactivity**:
 - The dropdown menu interactivity enhances the visualization's clarity by allowing users to isolate specific building usage types. This functionality facilitates a deeper understanding of the data by enabling targeted exploration, which would not be as straightforward in a static chart.
 
-<div id="viz2"></div>
 
 ## Resources
 {% include elements/button.html link="https://github.com/UIUC-iSchool-DataViz/is445_data/blob/main/building_inventory.csv" text="The Data" %}
